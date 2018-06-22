@@ -1,0 +1,940 @@
+{
+  "response": {
+    "version": "0.1",
+    "termsofService": "http://www.wunderground.com/weather/api/d/terms.html",
+    "features": {
+      "forecast10day": 1
+    }
+  },
+  "forecast": {
+    "txt_forecast": {
+      "date": "12:05 PM MDT",
+      "forecastday": [
+        {
+          "period": 0,
+          "icon": "partlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+          "title": "Friday",
+          "fcttext": "Partly cloudy. A stray shower or thunderstorm is possible. High 78F. Winds WNW at 10 to 20 mph.",
+          "fcttext_metric": "Partly cloudy. A stray shower or thunderstorm is possible. High near 25C. Winds W at 15 to 30 km/h.",
+          "pop": "20"
+        },
+        {
+          "period": 1,
+          "icon": "nt_partlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+          "title": "Friday Night",
+          "fcttext": "Partly cloudy skies. A stray shower or thunderstorm is possible. Low 52F. Winds W at 10 to 15 mph.",
+          "fcttext_metric": "Partly cloudy. A stray shower or thunderstorm is possible. Low 11C. Winds WSW at 15 to 25 km/h.",
+          "pop": "20"
+        },
+        {
+          "period": 2,
+          "icon": "mostlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+          "title": "Saturday",
+          "fcttext": "Mostly cloudy. A stray shower or thunderstorm is possible. High 68F. Winds WNW at 10 to 15 mph.",
+          "fcttext_metric": "Mostly cloudy. A stray shower or thunderstorm is possible. High around 20C. Winds WNW at 10 to 15 km/h.",
+          "pop": "20"
+        },
+        {
+          "period": 3,
+          "icon": "nt_partlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+          "title": "Saturday Night",
+          "fcttext": "Cloudy early with partial clearing expected late. A stray shower or thunderstorm is possible. Low 51F. Winds NW at 5 to 10 mph.",
+          "fcttext_metric": "Cloudy skies early, followed by partial clearing. A stray shower or thunderstorm is possible. Low 11C. Winds WNW at 10 to 15 km/h.",
+          "pop": "20"
+        },
+        {
+          "period": 4,
+          "icon": "clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+          "title": "Sunday",
+          "fcttext": "Sunny skies. High 82F. Winds light and variable.",
+          "fcttext_metric": "Sunny skies. High 28C. Winds light and variable.",
+          "pop": "10"
+        },
+        {
+          "period": 5,
+          "icon": "nt_clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif",
+          "title": "Sunday Night",
+          "fcttext": "Clear skies. Low near 55F. Winds light and variable.",
+          "fcttext_metric": "Clear skies. Low 12C. Winds light and variable.",
+          "pop": "10"
+        },
+        {
+          "period": 6,
+          "icon": "clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+          "title": "Monday",
+          "fcttext": "Except for a few afternoon clouds, mainly sunny. High 83F. SSW winds shifting to WNW at 10 to 15 mph.",
+          "fcttext_metric": "Except for a few afternoon clouds, mainly sunny. High 28C. SSW winds shifting to WNW at 15 to 30 km/h.",
+          "pop": "0"
+        },
+        {
+          "period": 7,
+          "icon": "nt_partlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+          "title": "Monday Night",
+          "fcttext": "Some clouds early will give way to generally clear conditions overnight. Low 49F. Winds WNW at 10 to 15 mph.",
+          "fcttext_metric": "Some clouds early will give way to generally clear conditions overnight. Low 9C. Winds WNW at 15 to 25 km/h.",
+          "pop": "0"
+        },
+        {
+          "period": 8,
+          "icon": "clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+          "title": "Tuesday",
+          "fcttext": "Sunshine and some clouds. High 72F. Winds WNW at 10 to 15 mph.",
+          "fcttext_metric": "Except for a few afternoon clouds, mainly sunny. High 22C. Winds WNW at 15 to 25 km/h.",
+          "pop": "0"
+        },
+        {
+          "period": 9,
+          "icon": "nt_clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif",
+          "title": "Tuesday Night",
+          "fcttext": "Clear skies. Low near 45F. Winds WNW at 10 to 15 mph.",
+          "fcttext_metric": "Mostly clear. Low 7C. Winds WNW at 15 to 25 km/h.",
+          "pop": "0"
+        },
+        {
+          "period": 10,
+          "icon": "clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+          "title": "Wednesday",
+          "fcttext": "Mostly sunny skies. High 77F. Winds W at 10 to 15 mph.",
+          "fcttext_metric": "Sunny. High 26C. Winds W at 10 to 15 km/h.",
+          "pop": "0"
+        },
+        {
+          "period": 11,
+          "icon": "nt_partlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+          "title": "Wednesday Night",
+          "fcttext": "A few clouds. Low around 50F. Winds NW at 5 to 10 mph.",
+          "fcttext_metric": "Mainly clear early, then a few clouds later on. Low 11C. Winds NW at 10 to 15 km/h.",
+          "pop": "0"
+        },
+        {
+          "period": 12,
+          "icon": "partlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+          "title": "Thursday",
+          "fcttext": "Sunshine and clouds mixed. High around 75F. Winds NW at 5 to 10 mph.",
+          "fcttext_metric": "Sunshine and clouds mixed. High 21C. Winds WNW at 10 to 15 km/h.",
+          "pop": "0"
+        },
+        {
+          "period": 13,
+          "icon": "nt_clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif",
+          "title": "Thursday Night",
+          "fcttext": "Mainly clear skies. Low 49F. Winds NW at 5 to 10 mph.",
+          "fcttext_metric": "A few clouds. Low 9C. Winds NW at 10 to 15 km/h.",
+          "pop": "20"
+        },
+        {
+          "period": 14,
+          "icon": "chancerain",
+          "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+          "title": "Friday",
+          "fcttext": "Overcast with rain showers at times. High 69F. Winds WNW at 5 to 10 mph. Chance of rain 40%.",
+          "fcttext_metric": "Cloudy with showers. High 19C. Winds WNW at 10 to 15 km/h. Chance of rain 50%.",
+          "pop": "40"
+        },
+        {
+          "period": 15,
+          "icon": "nt_chancerain",
+          "icon_url": "http://icons.wxug.com/i/c/k/nt_chancerain.gif",
+          "title": "Friday Night",
+          "fcttext": "Rain showers early with mostly cloudy conditions late. Low 49F. Winds NW at 5 to 10 mph. Chance of rain 40%.",
+          "fcttext_metric": "Showers in the evening with some clearing overnight. Low 9C. Winds WNW at 10 to 15 km/h. Chance of rain 40%.",
+          "pop": "40"
+        },
+        {
+          "period": 16,
+          "icon": "chancerain",
+          "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+          "title": "Saturday",
+          "fcttext": "A few showers early with mostly cloudy conditions later in the day. High 63F. Winds WNW at 10 to 15 mph. Chance of rain 30%.",
+          "fcttext_metric": "Mostly cloudy skies with a few showers later in the day. High 17C. Winds WNW at 10 to 15 km/h. Chance of rain 30%.",
+          "pop": "30"
+        },
+        {
+          "period": 17,
+          "icon": "nt_partlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+          "title": "Saturday Night",
+          "fcttext": "Mostly cloudy skies early will become partly cloudy late. Low 46F. Winds WNW at 10 to 15 mph.",
+          "fcttext_metric": "Partly cloudy skies during the evening will give way to cloudy skies overnight. Low 8C. Winds WNW at 10 to 15 km/h.",
+          "pop": "20"
+        },
+        {
+          "period": 18,
+          "icon": "partlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+          "title": "Sunday",
+          "fcttext": "Partly cloudy. High around 70F. Winds W at 10 to 15 mph.",
+          "fcttext_metric": "Mainly cloudy. High 19C. Winds W at 10 to 15 km/h.",
+          "pop": "10"
+        },
+        {
+          "period": 19,
+          "icon": "nt_clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif",
+          "title": "Sunday Night",
+          "fcttext": "Clear skies. Low 47F. Winds NW at 5 to 10 mph.",
+          "fcttext_metric": "A mostly clear sky. Low 7C. Winds WNW at 10 to 15 km/h.",
+          "pop": "10"
+        }
+      ]
+    },
+    "simpleforecast": {
+      "forecastday": [
+        {
+          "date": {
+            "epoch": "1529715600",
+            "pretty": "7:00 PM MDT on June 22, 2018",
+            "day": 22,
+            "month": 6,
+            "year": 2018,
+            "yday": 172,
+            "hour": 19,
+            "min": "00",
+            "sec": 0,
+            "isdst": "1",
+            "monthname": "June",
+            "monthname_short": "Jun",
+            "weekday_short": "Fri",
+            "weekday": "Friday",
+            "ampm": "PM",
+            "tz_short": "MDT",
+            "tz_long": "America/Denver"
+          },
+          "period": 1,
+          "high": {
+            "fahrenheit": "78",
+            "celsius": "26"
+          },
+          "low": {
+            "fahrenheit": "52",
+            "celsius": "11"
+          },
+          "conditions": "Partly Cloudy",
+          "icon": "partlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+          "skyicon": "",
+          "pop": 20,
+          "qpf_allday": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_day": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_night": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "snow_allday": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_day": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_night": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "maxwind": {
+            "mph": 20,
+            "kph": 32,
+            "dir": "WNW",
+            "degrees": 285
+          },
+          "avewind": {
+            "mph": 13,
+            "kph": 21,
+            "dir": "WNW",
+            "degrees": 285
+          },
+          "avehumidity": 38,
+          "maxhumidity": 0,
+          "minhumidity": 0
+        },
+        {
+          "date": {
+            "epoch": "1529802000",
+            "pretty": "7:00 PM MDT on June 23, 2018",
+            "day": 23,
+            "month": 6,
+            "year": 2018,
+            "yday": 173,
+            "hour": 19,
+            "min": "00",
+            "sec": 0,
+            "isdst": "1",
+            "monthname": "June",
+            "monthname_short": "Jun",
+            "weekday_short": "Sat",
+            "weekday": "Saturday",
+            "ampm": "PM",
+            "tz_short": "MDT",
+            "tz_long": "America/Denver"
+          },
+          "period": 2,
+          "high": {
+            "fahrenheit": "68",
+            "celsius": "20"
+          },
+          "low": {
+            "fahrenheit": "51",
+            "celsius": "11"
+          },
+          "conditions": "Mostly Cloudy",
+          "icon": "mostlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+          "skyicon": "",
+          "pop": 20,
+          "qpf_allday": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_day": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_night": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "snow_allday": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_day": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_night": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "maxwind": {
+            "mph": 15,
+            "kph": 24,
+            "dir": "WNW",
+            "degrees": 291
+          },
+          "avewind": {
+            "mph": 10,
+            "kph": 16,
+            "dir": "WNW",
+            "degrees": 291
+          },
+          "avehumidity": 60,
+          "maxhumidity": 0,
+          "minhumidity": 0
+        },
+        {
+          "date": {
+            "epoch": "1529888400",
+            "pretty": "7:00 PM MDT on June 24, 2018",
+            "day": 24,
+            "month": 6,
+            "year": 2018,
+            "yday": 174,
+            "hour": 19,
+            "min": "00",
+            "sec": 0,
+            "isdst": "1",
+            "monthname": "June",
+            "monthname_short": "Jun",
+            "weekday_short": "Sun",
+            "weekday": "Sunday",
+            "ampm": "PM",
+            "tz_short": "MDT",
+            "tz_long": "America/Denver"
+          },
+          "period": 3,
+          "high": {
+            "fahrenheit": "82",
+            "celsius": "28"
+          },
+          "low": {
+            "fahrenheit": "55",
+            "celsius": "13"
+          },
+          "conditions": "Clear",
+          "icon": "clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+          "skyicon": "",
+          "pop": 10,
+          "qpf_allday": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_day": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_night": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "snow_allday": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_day": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_night": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "maxwind": {
+            "mph": 5,
+            "kph": 8,
+            "dir": "WNW",
+            "degrees": 288
+          },
+          "avewind": {
+            "mph": 4,
+            "kph": 6,
+            "dir": "WNW",
+            "degrees": 288
+          },
+          "avehumidity": 55,
+          "maxhumidity": 0,
+          "minhumidity": 0
+        },
+        {
+          "date": {
+            "epoch": "1529974800",
+            "pretty": "7:00 PM MDT on June 25, 2018",
+            "day": 25,
+            "month": 6,
+            "year": 2018,
+            "yday": 175,
+            "hour": 19,
+            "min": "00",
+            "sec": 0,
+            "isdst": "1",
+            "monthname": "June",
+            "monthname_short": "Jun",
+            "weekday_short": "Mon",
+            "weekday": "Monday",
+            "ampm": "PM",
+            "tz_short": "MDT",
+            "tz_long": "America/Denver"
+          },
+          "period": 4,
+          "high": {
+            "fahrenheit": "83",
+            "celsius": "28"
+          },
+          "low": {
+            "fahrenheit": "49",
+            "celsius": "9"
+          },
+          "conditions": "Clear",
+          "icon": "clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+          "skyicon": "",
+          "pop": 0,
+          "qpf_allday": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_day": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_night": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "snow_allday": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_day": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_night": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "maxwind": {
+            "mph": 15,
+            "kph": 24,
+            "dir": "WSW",
+            "degrees": 255
+          },
+          "avewind": {
+            "mph": 12,
+            "kph": 19,
+            "dir": "WSW",
+            "degrees": 255
+          },
+          "avehumidity": 49,
+          "maxhumidity": 0,
+          "minhumidity": 0
+        },
+        {
+          "date": {
+            "epoch": "1530061200",
+            "pretty": "7:00 PM MDT on June 26, 2018",
+            "day": 26,
+            "month": 6,
+            "year": 2018,
+            "yday": 176,
+            "hour": 19,
+            "min": "00",
+            "sec": 0,
+            "isdst": "1",
+            "monthname": "June",
+            "monthname_short": "Jun",
+            "weekday_short": "Tue",
+            "weekday": "Tuesday",
+            "ampm": "PM",
+            "tz_short": "MDT",
+            "tz_long": "America/Denver"
+          },
+          "period": 5,
+          "high": {
+            "fahrenheit": "72",
+            "celsius": "22"
+          },
+          "low": {
+            "fahrenheit": "45",
+            "celsius": "7"
+          },
+          "conditions": "Clear",
+          "icon": "clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+          "skyicon": "",
+          "pop": 0,
+          "qpf_allday": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_day": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_night": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "snow_allday": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_day": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_night": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "maxwind": {
+            "mph": 15,
+            "kph": 24,
+            "dir": "WNW",
+            "degrees": 285
+          },
+          "avewind": {
+            "mph": 11,
+            "kph": 18,
+            "dir": "WNW",
+            "degrees": 285
+          },
+          "avehumidity": 40,
+          "maxhumidity": 0,
+          "minhumidity": 0
+        },
+        {
+          "date": {
+            "epoch": "1530147600",
+            "pretty": "7:00 PM MDT on June 27, 2018",
+            "day": 27,
+            "month": 6,
+            "year": 2018,
+            "yday": 177,
+            "hour": 19,
+            "min": "00",
+            "sec": 0,
+            "isdst": "1",
+            "monthname": "June",
+            "monthname_short": "Jun",
+            "weekday_short": "Wed",
+            "weekday": "Wednesday",
+            "ampm": "PM",
+            "tz_short": "MDT",
+            "tz_long": "America/Denver"
+          },
+          "period": 6,
+          "high": {
+            "fahrenheit": "77",
+            "celsius": "25"
+          },
+          "low": {
+            "fahrenheit": "50",
+            "celsius": "10"
+          },
+          "conditions": "Clear",
+          "icon": "clear",
+          "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+          "skyicon": "",
+          "pop": 0,
+          "qpf_allday": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_day": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_night": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "snow_allday": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_day": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_night": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "maxwind": {
+            "mph": 15,
+            "kph": 24,
+            "dir": "W",
+            "degrees": 278
+          },
+          "avewind": {
+            "mph": 10,
+            "kph": 16,
+            "dir": "W",
+            "degrees": 278
+          },
+          "avehumidity": 40,
+          "maxhumidity": 0,
+          "minhumidity": 0
+        },
+        {
+          "date": {
+            "epoch": "1530234000",
+            "pretty": "7:00 PM MDT on June 28, 2018",
+            "day": 28,
+            "month": 6,
+            "year": 2018,
+            "yday": 178,
+            "hour": 19,
+            "min": "00",
+            "sec": 0,
+            "isdst": "1",
+            "monthname": "June",
+            "monthname_short": "Jun",
+            "weekday_short": "Thu",
+            "weekday": "Thursday",
+            "ampm": "PM",
+            "tz_short": "MDT",
+            "tz_long": "America/Denver"
+          },
+          "period": 7,
+          "high": {
+            "fahrenheit": "75",
+            "celsius": "24"
+          },
+          "low": {
+            "fahrenheit": "49",
+            "celsius": "9"
+          },
+          "conditions": "Partly Cloudy",
+          "icon": "partlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+          "skyicon": "",
+          "pop": 0,
+          "qpf_allday": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_day": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_night": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "snow_allday": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_day": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_night": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "maxwind": {
+            "mph": 10,
+            "kph": 16,
+            "dir": "NW",
+            "degrees": 307
+          },
+          "avewind": {
+            "mph": 8,
+            "kph": 13,
+            "dir": "NW",
+            "degrees": 307
+          },
+          "avehumidity": 41,
+          "maxhumidity": 0,
+          "minhumidity": 0
+        },
+        {
+          "date": {
+            "epoch": "1530320400",
+            "pretty": "7:00 PM MDT on June 29, 2018",
+            "day": 29,
+            "month": 6,
+            "year": 2018,
+            "yday": 179,
+            "hour": 19,
+            "min": "00",
+            "sec": 0,
+            "isdst": "1",
+            "monthname": "June",
+            "monthname_short": "Jun",
+            "weekday_short": "Fri",
+            "weekday": "Friday",
+            "ampm": "PM",
+            "tz_short": "MDT",
+            "tz_long": "America/Denver"
+          },
+          "period": 8,
+          "high": {
+            "fahrenheit": "69",
+            "celsius": "21"
+          },
+          "low": {
+            "fahrenheit": "49",
+            "celsius": "9"
+          },
+          "conditions": "Chance of Rain",
+          "icon": "chancerain",
+          "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+          "skyicon": "",
+          "pop": 40,
+          "qpf_allday": {
+            "in": 0.34,
+            "mm": 9
+          },
+          "qpf_day": {
+            "in": 0.24,
+            "mm": 6
+          },
+          "qpf_night": {
+            "in": 0.10,
+            "mm": 3
+          },
+          "snow_allday": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_day": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_night": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "maxwind": {
+            "mph": 10,
+            "kph": 16,
+            "dir": "WNW",
+            "degrees": 292
+          },
+          "avewind": {
+            "mph": 9,
+            "kph": 14,
+            "dir": "WNW",
+            "degrees": 292
+          },
+          "avehumidity": 61,
+          "maxhumidity": 0,
+          "minhumidity": 0
+        },
+        {
+          "date": {
+            "epoch": "1530406800",
+            "pretty": "7:00 PM MDT on June 30, 2018",
+            "day": 30,
+            "month": 6,
+            "year": 2018,
+            "yday": 180,
+            "hour": 19,
+            "min": "00",
+            "sec": 0,
+            "isdst": "1",
+            "monthname": "June",
+            "monthname_short": "Jun",
+            "weekday_short": "Sat",
+            "weekday": "Saturday",
+            "ampm": "PM",
+            "tz_short": "MDT",
+            "tz_long": "America/Denver"
+          },
+          "period": 9,
+          "high": {
+            "fahrenheit": "63",
+            "celsius": "17"
+          },
+          "low": {
+            "fahrenheit": "46",
+            "celsius": "8"
+          },
+          "conditions": "Chance of Rain",
+          "icon": "chancerain",
+          "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+          "skyicon": "",
+          "pop": 30,
+          "qpf_allday": {
+            "in": 0.05,
+            "mm": 1
+          },
+          "qpf_day": {
+            "in": 0.05,
+            "mm": 1
+          },
+          "qpf_night": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "snow_allday": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_day": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_night": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "maxwind": {
+            "mph": 15,
+            "kph": 24,
+            "dir": "WNW",
+            "degrees": 287
+          },
+          "avewind": {
+            "mph": 11,
+            "kph": 18,
+            "dir": "WNW",
+            "degrees": 287
+          },
+          "avehumidity": 70,
+          "maxhumidity": 0,
+          "minhumidity": 0
+        },
+        {
+          "date": {
+            "epoch": "1530493200",
+            "pretty": "7:00 PM MDT on July 01, 2018",
+            "day": 1,
+            "month": 7,
+            "year": 2018,
+            "yday": 181,
+            "hour": 19,
+            "min": "00",
+            "sec": 0,
+            "isdst": "1",
+            "monthname": "July",
+            "monthname_short": "Jul",
+            "weekday_short": "Sun",
+            "weekday": "Sunday",
+            "ampm": "PM",
+            "tz_short": "MDT",
+            "tz_long": "America/Denver"
+          },
+          "period": 10,
+          "high": {
+            "fahrenheit": "70",
+            "celsius": "21"
+          },
+          "low": {
+            "fahrenheit": "47",
+            "celsius": "8"
+          },
+          "conditions": "Partly Cloudy",
+          "icon": "partlycloudy",
+          "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+          "skyicon": "",
+          "pop": 10,
+          "qpf_allday": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_day": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "qpf_night": {
+            "in": 0.00,
+            "mm": 0
+          },
+          "snow_allday": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_day": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "snow_night": {
+            "in": 0.0,
+            "cm": 0.0
+          },
+          "maxwind": {
+            "mph": 15,
+            "kph": 24,
+            "dir": "W",
+            "degrees": 278
+          },
+          "avewind": {
+            "mph": 10,
+            "kph": 16,
+            "dir": "W",
+            "degrees": 278
+          },
+          "avehumidity": 56,
+          "maxhumidity": 0,
+          "minhumidity": 0
+        }
+      ]
+    }
+  }
+}

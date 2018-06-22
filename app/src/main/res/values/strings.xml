@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">onXProject</string>
+  <string name="google_maps_key" translatable="false">AIzaSyA1qGqThlsB6dE-9ivupGGEc0UBKbharSs</string>
+</resources>
